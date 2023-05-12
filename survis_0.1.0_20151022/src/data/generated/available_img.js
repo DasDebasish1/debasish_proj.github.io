@@ -1,0 +1,1 @@
+define({ availableImg: ["ageEstimation2021","Beck2016Visual","boneAge2019","boneAgeAssessment2022","cnn2021","deepLearning2020","medicalServices2022","neuralNetwork2021","pediatricBoneAge2023","radiology2017","trainedRNN2021"]});
